@@ -2,6 +2,8 @@
 
 We use SwiftyJSON and ALAMOFIRE to receive data and set the data to variables :tada::tada:
 
+Below is the response we receive after parsing:
+
 
     {
       "kind" : "t3",
